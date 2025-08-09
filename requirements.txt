@@ -1,0 +1,8 @@
+# Dependencies for Claude Code Subagent Manager
+rich>=13.0.0
+questionary>=2.0.0
+PyYAML>=6.0.0
+
+# Optional dependencies for enhanced functionality
+colorama>=0.4.6
+click>=8.1.0
